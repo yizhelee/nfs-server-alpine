@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.10
 LABEL maintainer "Steven Iveson <steve@iveson.eu>"
 LABEL source "https://github.com/sjiveson/nfs-server-alpine"
 LABEL branch "master"
